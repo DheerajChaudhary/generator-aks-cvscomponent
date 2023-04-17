@@ -1,1 +1,1 @@
-# aks-cvscomponent
+generator-aks-cvscomponent
